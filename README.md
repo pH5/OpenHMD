@@ -1,4 +1,8 @@
 # OpenHMD
+[![license](https://img.shields.io/github/license/OpenHMD/OpenHMD.svg)](https://raw.githubusercontent.com/OpenHMD/OpenHMD/master/LICENSE)
+[![Travis CI](https://img.shields.io/travis/OpenHMD/OpenHMD/master.svg)](https://travis-ci.org/OpenHMD/OpenHMD/branches)
+[![GitHub release](https://img.shields.io/github/release/OpenHMD/OpenHMD.svg)](https://github.com/OpenHMD/OpenHMD/releases)
+
 This project aims to provide a Free and Open Source API and drivers for immersive technology, such as head mounted displays with built in head tracking.
 
 ## License
